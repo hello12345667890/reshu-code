@@ -1,0 +1,5 @@
+print("hello my name is Reshu")
+print(123456789)
+print("Hello I am 9 years old \n")
+print(", Hello I live in the USA 9,9")
+print("Welocome to",end="*")
